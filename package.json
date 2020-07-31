@@ -2,9 +2,9 @@
   "name": "orm",
   "version": "1.0.0",
   "description": "A Object-relational mapping module.",
-  "main": "orm.js",
+  "main": "ORM.class.js",
   "scripts": {
-    "test": "node orm.js"
+    "test": "node ./tests/ORMUnitTest.class.js"
   },
   "repository": {
     "type": "git",
