@@ -1,5 +1,5 @@
 {
-  "name": "orm",
+  "name": "openorm",
   "version": "1.0.0",
   "description": "A Object-relational mapping module.",
   "main": "ORM.class.js",
