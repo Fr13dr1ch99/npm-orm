@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Fr13dr1ch99/npm-orm/issues"
   },
-  "homepage": "https://github.com/Fr13dr1ch99/npm-orm#readme"
+  "homepage": "https://github.com/Fr13dr1ch99/npm-orm#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
